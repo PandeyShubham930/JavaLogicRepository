@@ -1,6 +1,7 @@
 package Javacollections;
 
 import java.util.Iterator;
+import java.util.Map;
 import java.util.PriorityQueue;
 
 public class PriorityQueuDemo
@@ -34,5 +35,7 @@ public class PriorityQueuDemo
         {
             System.out.print(it.next() + " ");
         }
+
+
     }
 }
